@@ -52,3 +52,6 @@ body {
 	--input-hover-border-color: red;
 	/* Default Input Variables for Root */
  }
+ body {
+	--ribbon-background: magenta;
+  }
