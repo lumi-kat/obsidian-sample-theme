@@ -50,8 +50,8 @@ body {
 	--input-unfocused-border-color: transparent;
 	--input-disabled-border-color: transparent;
 	--input-hover-border-color: red;
-	/* Default Input Variables for Root */
+
  }
  body {
-	--ribbon-background: magenta;
+	--ribbon-background: rgb(95, 164, 55);
   }
