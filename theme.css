@@ -32,7 +32,6 @@ svg * {
 .menu-separator {
 	margin: var(--size-2-1) calc(var(--size-2-1) * -1);
 }
-<<<<<<< HEAD
 body {
 	--font-text-theme: Arial;
   }
@@ -54,5 +53,3 @@ body {
  body {
     --canvas-background: rgb(95, 164, 55);
 }
-=======
->>>>>>> parent of d09ddab (Update theme.css)
